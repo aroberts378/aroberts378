@@ -1,3 +1,7 @@
+ <p align="center">
+    <img src= "./ChatGPT Image Jul 12, 2025, 10_59_52 PM.png/>
+  </p>
+
 
 <h1 align="center">Hi, I'm Angelica | 🦊 FoxTech</h1>
 
