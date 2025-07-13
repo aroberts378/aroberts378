@@ -1,4 +1,4 @@
-
+<img src="./ChatGPT Image Jul 12, 2025, 10_59_52 PM.png" alt="FoxTech Banner" width="100%" />
 <p align="center">
     <img src="./
   </p
