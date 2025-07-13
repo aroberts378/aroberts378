@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./A_GitHub_profile_banner_in_digital_illustration_an.png" alt="FoxTech Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Angelica | 🦊 FoxTech</h1>
 
