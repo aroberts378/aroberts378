@@ -1,6 +1,13 @@
-# 👋 Hi, I'm Angelica | 🦊 FoxTech
+<p align="center">
+  <img src="./A_GitHub_profile_banner_in_digital_illustration_an.png" alt="FoxTech Banner" width="100%" />
+</p>
 
-I'm a seamstress at Disney by day — and a software developer by night, building calm, ADHD-friendly digital tools with handcrafted HTML, CSS, and JavaScript. I blend design, usability, and tech to support neurodivergent minds in tech and beyond.
+<h1 align="center">Hi, I'm Angelica | 🦊 FoxTech</h1>
+
+<p align="center">
+  <em>Building calm, ADHD-friendly digital tools with handcrafted HTML, CSS, and JavaScript.<br>
+  I blend design, usability, and tech to support neurodivergent minds in tech and beyond.</em>
+</p>
 
 ---
 
