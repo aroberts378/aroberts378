@@ -1,9 +1,10 @@
- <p align="center">
-    <img src= "./ChatGPT Image Jul 12, 2025, 10_59_52 PM.png/>
-  </p>
 
+<p align="center">
+    <img src="./
+  </p
 
 <h1 align="center">Hi, I'm Angelica | 🦊 FoxTech</h1>
+
 
 <p align="center">
   <em>Building calm, ADHD-friendly digital tools with handcrafted HTML, CSS, and JavaScript.<br>
