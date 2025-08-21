@@ -48,4 +48,5 @@
 ### 📫 Let’s Connect
 - GitHub: [@aroberts378](https://github.com/aroberts378)
 - Portfolio: Coming soon at FoxTech 🦊
+- Click for Resume: <a href="https://drive.google.com/file/d/1v7biI5kZ4RqYhY8wOP2A0-WYHpbnXQYW/view?usp=sharing"> View my Resume</a>
 
