@@ -24,7 +24,7 @@
 ### 🛠️ Current Projects
 - ✅ [To-Do List App](#): Clean and minimal productivity UI
 - 🌦️ [Weather App](#): Simple forecast with live API data
-- 🧮 [Calculator]((https://github.com/aroberts378/foxtech-stylized-calculator?tab=readme-ov-file)): Lightweight and responsive
+- 🧮 [Calculator](https://github.com/aroberts378/foxtech-stylized-calculator?tab=readme-ov-file): Lightweight and responsive
 - 🛍️ [Hive Techwear E-Commerce](#): Fashion + code fusion
 - 🌐 [FoxTech Portfolio](#): Pure HTML/CSS/JS — built from scratch
 
