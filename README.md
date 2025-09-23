@@ -22,7 +22,7 @@
 ---
 
 ### 🛠️ Current Projects
-- ✅ [To-Do List App](#): Clean and minimal productivity UI
+- ✅ [To-Do List App](https://github.com/aroberts378/foxtech-stylized-calculator?tab=readme-ov-file): Clean and minimal productivity UI
 - 🌦️ [Weather App](#): Simple forecast with live API data
 - 🧮 [Calculator](#): Lightweight and responsive
 - 🛍️ [Hive Techwear E-Commerce](#): Fashion + code fusion
